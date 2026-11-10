@@ -3,7 +3,7 @@
 # ⚔️ Sea's Weaponry
 ### Community issue tracker for the Minecraft: Java Edition mod
 
-[**Report a bug**](https://github.com/SeaSerpant1040/Sea-s-Weaponry-Issues/issues/new?template=bug_report.md) · [**Browse issues**](https://github.com/SeaSerpant1040/Sea-s-Weaponry-Issues/issues) · [**Repository**](https://github.com/SeaSerpant1040/Sea-s-Weaponry-Issues) · [**License**](LICENSE.md)
+[**Report a bug**](https://github.com/SeaSerpant1040/Sea-s-Weaponry-Issues/issues/new?template=bug_report.md) · [**Browse issues**](https://github.com/SeaSerpant1040/Sea-s-Weaponry-Issues/issues) · [**Modrinth**](https://modrinth.com/mod/seas-weaponry)
 
 [![GitHub issues](https://img.shields.io/github/issues/SeaSerpant1040/Sea-s-Weaponry-Issues?style=for-the-badge&color=8b5cf6)](https://github.com/SeaSerpant1040/Sea-s-Weaponry-Issues/issues)
 [![Minecraft](https://img.shields.io/badge/Minecraft-Java%20Edition-3c8527?style=for-the-badge)](https://www.minecraft.net/)
@@ -13,7 +13,7 @@
 
 ---
 
-Welcome! This repository is the place to **report bugs and share feedback** about **Sea's Weaponry**, a Minecraft mod adding additional in-game content. The project is developed by **SeaSerpant1040**, with occasional contributions from **Apocalypsing**.
+Welcome! This repository is the place to **report bugs and share feedback** about **Sea's Weaponry**, a Minecraft mod adding additional in-game content. The project is developed by **SeaSerpant1040** and is shared publicly for community support.
 
 > **Please note:** Sea's Weaponry is for **Minecraft: Java Edition**. It is not compatible with Bedrock Edition.
 
@@ -23,6 +23,7 @@ Welcome! This repository is the place to **report bugs and share feedback** abou
 | --- | --- |
 | Report a bug | [Open a bug report](https://github.com/SeaSerpant1040/Sea-s-Weaponry-Issues/issues/new?template=bug_report.md) |
 | Check whether a bug is already reported | [Search existing issues](https://github.com/SeaSerpant1040/Sea-s-Weaponry-Issues/issues) |
+| View the mod page | [Open Modrinth](https://modrinth.com/mod/seas-weaponry) |
 | See current project discussions and requests | [Browse all issues](https://github.com/SeaSerpant1040/Sea-s-Weaponry-Issues/issues) |
 | Read the license terms | [Open `LICENSE.md`](LICENSE.md) |
 
@@ -41,7 +42,9 @@ The mod requires Minecraft: Java Edition, Fabric Loader, and Fabric API. Make su
 
 ## 🐛 How to report a bug
 
-Before opening an issue, [search existing reports](https://github.com/SeaSerpant1040/Sea-s-Weaponry-Issues/issues) to see if someone has already reported the same problem. If not, [open a bug report](https://github.com/SeaSerpant1040/Sea-s-Weaponry-Issues/issues/new?template=bug_report.md) and include:
+Before opening an issue, [search existing reports](https://github.com/SeaSerpant1040/Sea-s-Weaponry-Issues/issues) to see if someone has already reported the same problem. If not, [open a bug report](https://github.com/SeaSerpant1040/Sea-s-Weaponry-Issues/issues/new?template=bug_report.md).
+
+Include:
 
 - A clear description of what happened and what you expected instead.
 - Steps to reproduce the problem, if possible.
