@@ -1,42 +1,67 @@
-# ⚙️ Sea's Weaponry Issues
-This repository is for reporting issues with **Sea's Weaponry**, a game modification for *Minecraft: Java Edition*, adding additional in-game content. This project is developed by **SeaSerpant1040**, with occasional contributions from **Apocalypsing**
+<div align="center">
 
-Sea's Weaponry requires access to a copy of the *Java Edition* release of *Minecraft*; it is not compatible with the *Bedrock Edition* releases of the game. Additionally, *Fabric Loader*, and *Fabric API* are also required to be installed to use Sea's Weaponry.
+# ⚔️ Sea's Weaponry
+### Community issue tracker for the Minecraft: Java Edition mod
 
-## ⛏️ Current Development Targets
-- **Target Minecraft version:** Java Edition 1.20.1
-- **Target mod loader:** Fabric Loader *(latest version for 1.20.1 recommended)*
-- **Target Fabric API release:** `0.92.7`
-- **Target Java JDK version:** Java 17 Long-Term Support (LTS)
+[**Report a bug**](https://github.com/SeaSerpant1040/Sea-s-Weaponry-Issues/issues/new?template=bug_report.md) · [**Browse issues**](https://github.com/SeaSerpant1040/Sea-s-Weaponry-Issues/issues) · [**Repository**](https://github.com/SeaSerpant1040/Sea-s-Weaponry-Issues) · [**License**](LICENSE.md)
 
----
-## 📋 Reporting An Issue
-### Issue description:
-*Provide us with a description of your issue. Give us as much detail as possible. Replace this text with your issue description.*
+[![GitHub issues](https://img.shields.io/github/issues/SeaSerpant1040/Sea-s-Weaponry-Issues?style=for-the-badge&color=8b5cf6)](https://github.com/SeaSerpant1040/Sea-s-Weaponry-Issues/issues)
+[![Minecraft](https://img.shields.io/badge/Minecraft-Java%20Edition-3c8527?style=for-the-badge)](https://www.minecraft.net/)
+[![Fabric](https://img.shields.io/badge/Mod%20loader-Fabric-dbd0b4?style=for-the-badge)](https://fabricmc.net/)
 
-### How to reproduce this issue (if applicable):
-*If you know how to reproduce the issue, provide us a list of steps here. This will help us greatly in solving the problem. Add as many steps as necessary.*
-
-1.  
-2.  
-3.  
-
-### Additional details (Minecraft version, etc.):
-*Provide us some general details about your software configuration below. Providing these details on what helps Minecraft run on your device, will also help us greatly.*
-
-*If you have Minecraft crash reports that you think may be relevant to this issue, you can help us by [uploading them to mclo.gs](https://mclo.gs/), and then linking them here, for us to review for you.*
-
-- *Minecraft version:* 
-- *Java runtime version:* 
-- *Fabric Loader version:* 
-- *Fabric API version:* 
-- *Sea's Weaponry mod version:* 
-- *Minecraft screenshots (if applicable):* 
-- *Minecraft crash reports (if applicable):* 
-
-### Additional Notes:
-*If there is anything else not covered by one of the above categories, that you feel may also be helpful, provide us some additional information here. Feel free to skip this last step, if you have no more information to add.*
+</div>
 
 ---
-## 📜 Software Licence
-This Minecraft mod is licenced under the licence terms as provided in the file `LICENSE.md`. By downloading and/or using this software, you agree to the terms of the licence.
+
+Welcome! This repository is the place to **report bugs and share feedback** about **Sea's Weaponry**, a Minecraft mod adding additional in-game content. The project is developed by **SeaSerpant1040**, with occasional contributions from **Apocalypsing**.
+
+> **Please note:** Sea's Weaponry is for **Minecraft: Java Edition**. It is not compatible with Bedrock Edition.
+
+## 🔗 Quick links
+
+| I want to… | Go here |
+| --- | --- |
+| Report a bug | [Open a bug report](https://github.com/SeaSerpant1040/Sea-s-Weaponry-Issues/issues/new?template=bug_report.md) |
+| Check whether a bug is already reported | [Search existing issues](https://github.com/SeaSerpant1040/Sea-s-Weaponry-Issues/issues) |
+| See current project discussions and requests | [Browse all issues](https://github.com/SeaSerpant1040/Sea-s-Weaponry-Issues/issues) |
+| Read the license terms | [Open `LICENSE.md`](LICENSE.md) |
+
+## 🧭 Compatibility
+
+The current development targets are:
+
+| Component | Target |
+| --- | --- |
+| Minecraft | Java Edition **1.20.1** |
+| Mod loader | **Fabric Loader** (latest version for Minecraft 1.20.1 recommended) |
+| Fabric API | **0.92.7** |
+| Java | **Java 17 LTS** |
+
+The mod requires Minecraft: Java Edition, Fabric Loader, and Fabric API. Make sure your Minecraft version and installed mod dependencies match the targets above when reporting a problem.
+
+## 🐛 How to report a bug
+
+Before opening an issue, [search existing reports](https://github.com/SeaSerpant1040/Sea-s-Weaponry-Issues/issues) to see if someone has already reported the same problem. If not, [open a bug report](https://github.com/SeaSerpant1040/Sea-s-Weaponry-Issues/issues/new?template=bug_report.md) and include:
+
+- A clear description of what happened and what you expected instead.
+- Steps to reproduce the problem, if possible.
+- Your Minecraft, Java, Fabric Loader, Fabric API, and Sea's Weaponry versions.
+- Relevant screenshots, logs, or crash reports. Remove personal information before sharing logs, and you can upload crash reports to [mclo.gs](https://mclo.gs/) and share the resulting link.
+
+More detail makes an issue easier to investigate. If you are unsure about a field, say so rather than guessing.
+
+## 💡 Suggestions and feedback
+
+Have an idea or general feedback? [Browse the issue tracker](https://github.com/SeaSerpant1040/Sea-s-Weaponry-Issues/issues) first, then open an issue describing the idea and why it would be useful.
+
+## 📜 License
+
+The mod's license terms are described in [`LICENSE.md`](LICENSE.md). Please read them before downloading or using the mod.
+
+---
+
+<div align="center">
+
+**Thanks for helping make Sea's Weaponry better!**
+
+</div>
